@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AndroidTest</string>
+    <string name="common_error">Something went wrong please try again.</string>
+    <string name="error_search_query">Please enter valid search data.</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+
+
+
+
+    <string name="title_track">Track Name</string>
+    <string name="title_artist">Artist Name</string>
+    <string name="title_price">Price</string>
+    <string name="title_releasedate">Release Date</string>
+    <string name="symbol_dollar">$</string>
+    <string name="action_scroll">Scroll up ↑</string>
+
+
+    <string name="msg_no_internet">No internet connection.</string>
+
+
+</resources>

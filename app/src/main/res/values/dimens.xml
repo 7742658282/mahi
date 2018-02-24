@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="app_bar_height">200dp</dimen>
+    <dimen name="item_width">200dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+
+    <dimen name="detail_backdrop_height">256dp</dimen>
+    <dimen name="card_margin">16dp</dimen>
+    <dimen name="list_item_avatar_size">40dp</dimen>
+
+    <dimen name="dp_256">256dp</dimen>
+    <dimen name="dp_120">120dp</dimen>
+    <dimen name="dp_100">100dp</dimen>
+    <dimen name="dp_90">90dp</dimen>
+    <dimen name="dp_70">70dp</dimen>
+    <dimen name="dp_64">64dp</dimen>
+    <dimen name="dp_48">48dp</dimen>
+    <dimen name="dp_24">24dp</dimen>
+    <dimen name="dp_08">08dp</dimen>
+    <dimen name="dp_04">04dp</dimen>
+    <dimen name="dp_03">03dp</dimen>
+    <dimen name="dp_02">02dp</dimen>
+
+
+
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_18">18sp</dimen>
+</resources>
